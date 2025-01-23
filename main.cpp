@@ -1,3 +1,4 @@
+#define RAYGUI_IMPLEMENTATION
 #include "Core.h"
 
 int main(void)
